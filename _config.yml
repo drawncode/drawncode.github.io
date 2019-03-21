@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: drawncode
+title: Deep Learning and its applications - IIT Mandi
 email: sketchcode123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are a bunch of Deep Learning Enthusiasts working towards building a generic app for all platforms which will convert a hand drawn wireframe to a static webpage.
